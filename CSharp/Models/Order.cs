@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharp_Advanced.Models
+namespace CSharp.Models
 {
     public class Order
     {
